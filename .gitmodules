@@ -1,0 +1,3 @@
+[submodule "Plugboard"]
+	path = Plugboard
+	url = https://github.com/AdrianLSY/Vera-Plugboard
