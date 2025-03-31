@@ -1,3 +1,6 @@
 [submodule "Plugboard"]
 	path = Plugboard
 	url = https://github.com/AdrianLSY/Vera-Plugboard
+[submodule "Py-Service"]
+	path = Py-Service
+	url = https://github.com/AdrianLSY/Vera-Py-Service
